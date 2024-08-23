@@ -1,0 +1,101 @@
+.bag {
+  margin-top: 10%;
+  background-color: #0a2640;
+  width: auto;
+  height: 750px;
+}
+.clr {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 150%;
+  padding-top: 5%;
+  padding-left: 150px;
+
+  color: #ffffff;
+}
+/* h2 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 150%;
+  padding-top: 100px;
+  padding-left: 150px;
+
+  color: #ffffff; */
+
+.one {
+  margin-left: 7%;
+  float: left;
+
+  width: 25%;
+  height: 300px;
+  padding-left: 3%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background: #ffffff;
+  box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+}
+.two {
+  float: left;
+  padding-left: 3%;
+  margin-top: 10px;
+  margin-right: 10px;
+  width: 25%;
+  margin-top: 2%;
+  height: 280px;
+  width: 350px;
+  height: 394px;
+
+  background: #ffffff;
+  box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  margin-left: 3%;
+}
+.three {
+  padding-left: 3%;
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+  margin-top: 2%;
+  width: 25%;
+  height: 280px;
+  margin-right: 8%;
+  width: 350px;
+  height: 358px;
+
+  background: #ffffff;
+  box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+}
+.customer {
+  margin: 15%;
+  margin-left: 7%;
+
+  border-radius: 24px;
+}
+.side1 {
+  width: 50;
+  height: 50%;
+}
+.side2 {
+  padding-left: 7%;
+  border-radius: 24px;
+}
+.sides {
+  width: 90%;
+  display: flex;
+
+  margin-left: 10%;
+}
+.a {
+  padding-top: 25px;
+  padding-left: 10%;
+}
+.author-name {
+  display: inline;
+  float: left;
+}

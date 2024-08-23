@@ -1,0 +1,13 @@
+/* .pie-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+} */
+
+.pie-box {
+  width: 100.96px;
+  height: 40.34px;
+  /* background-color: black; */
+  background-color: red;
+}

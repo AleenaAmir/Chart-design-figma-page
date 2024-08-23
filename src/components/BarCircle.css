@@ -1,0 +1,15 @@
+.small-circle {
+  padding-left: 10px;
+  padding-top: 2px;
+
+  display: flex;
+  justify-content: left;
+}
+
+.small-circle img {
+  margin: 0 3px 5px 5px;
+}
+img:hover {
+  /* add your styles here */
+  opacity: 0.9;
+}

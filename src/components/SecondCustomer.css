@@ -1,0 +1,61 @@
+.alpha {
+  width: 100%;
+  display: flex;
+  margin-top: 15%;
+  margin-left: 10%;
+}
+.abc {
+  width: 50;
+  height: 50%;
+}
+.xyz {
+  left: 57.57%;
+  right: 10.71%;
+  top: 36.53%;
+  bottom: 56.05%;
+  padding-left: 7%;
+  border-radius: 24px;
+}
+.data {
+  width: 500px;
+  height: 68px;
+  left: 150px;
+  top: 3003px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+.para {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 3%;
+  text-align: center;
+
+  color: #000000;
+}
+.pie-on-pic {
+  position: absolute;
+  width: 291px;
+  height: 388px;
+  left: 784px;
+  top: 2420px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+}
+.pie-list {
+  line-height: 10px;
+  min-height: fit-content;
+  list-style-type: square;
+
+  list-style-position: inside;
+}
+.dounet {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}

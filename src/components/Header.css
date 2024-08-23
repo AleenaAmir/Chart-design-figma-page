@@ -1,0 +1,136 @@
+.wrapper {
+  background-color: #0a2640;
+  width: auto;
+  height: 650px;
+}
+.container {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 0.9%;
+  margin-bottom: 100px;
+}
+.main {
+  padding-top: 7%;
+  padding-left: 0.5rem;
+  width: 50%;
+
+  color: white;
+  float: left;
+}
+.heading {
+  line-height: 60px;
+}
+.para {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 30px;
+  color: #777777;
+}
+
+.temp {
+  background: #65e4a3;
+  border: 2px solid #69e6a6;
+  border-radius: 56px;
+  align-items: center;
+
+  padding: 16px 56px;
+  gap: 8px;
+}
+.exp {
+  background: #0a2640;
+  color: white;
+  border-radius: 56px;
+  display: grid;
+  border-color: white;
+  padding: 16px 56px;
+  gap: 8px;
+}
+#bton {
+  display: inline-block;
+  margin: 10px;
+}
+
+.login {
+  background: white;
+
+  border-radius: 56px;
+  align-items: center;
+  padding: 10px 50px;
+  float: right;
+}
+
+#nav {
+  float: right;
+  padding: 20px;
+  color: white;
+}
+
+.logo-txt {
+  color: white;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.logo-txt a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: aqua;
+}
+.box1 {
+  width: 493.86px;
+  height: 231.9px;
+  float: right;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(34.3553px);
+  border-radius: 15.0305px;
+}
+.box3 {
+  width: 192.18px;
+  height: 165.34px;
+  margin-right: 38px;
+
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(34.3553px);
+  float: right;
+  margin-top: 10px;
+  border-radius: 15.0305px;
+}
+.box2 {
+  float: right;
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 10px;
+  width: 261.96px;
+  height: 165.34px;
+
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(66.5635px);
+  border-radius: 15.0305px;
+}
+.slide-logo {
+  height: 50;
+  width: 50;
+}
+
+.slide {
+  position: absolute;
+  width: 1073px;
+  height: 93px;
+  left: 100px;
+  top: 541px;
+  background: linear-gradient(
+    90deg,
+    #0a2640 0%,
+    rgba(10, 38, 64, 0.109375) 31.6%,
+    rgba(10, 38, 64, 0) 72.89%,
+    #0a2640 97.87%
+  );
+}
+.p-chart {
+  width: 230.96px;
+  height: 100.34px;
+  padding-left: 20px;
+}

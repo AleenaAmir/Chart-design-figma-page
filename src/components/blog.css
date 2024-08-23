@@ -1,0 +1,84 @@
+.lines
+
+.set {
+  height: 200px;
+  width: 100%;
+}
+.load {
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  width: 219px;
+  height: 60px;
+  left: 591px;
+  top: 5121px;
+
+  border: 2px solid #0a2640;
+  border-radius: 56px;
+}
+.packet {
+  background: #0a2640;
+  border-radius: 12px;
+  width: 1200px;
+  height: 391px;
+  position: absolute;
+
+  left: 5%;
+  top: 5301px;
+}
+.packet-heading {
+  position: absolute;
+  left: 20.17%;
+  right: 20.17%;
+  top: 18.41%;
+  bottom: 46.04%;
+
+  /* Headings/Text XXL */
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  /* or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+.email-input {
+  position: absolute;
+  left: 24.83%;
+  right: 44.33%;
+  top: 66.75%;
+  bottom: 18.93%;
+
+  background: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 240px;
+}
+.sbmt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 56px;
+  gap: 8px;
+
+  position: absolute;
+  left: 57.67%;
+  right: 24.83%;
+  top: 66.24%;
+  bottom: 18.41%;
+
+  /* Green */
+
+  background: #65e4a3;
+  /* Green */
+
+  border: 2px solid #65e4a3;
+  border-radius: 56px;
+}
